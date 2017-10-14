@@ -2,7 +2,7 @@
   font-family: 'Material Icons';
   font-style: normal;
   font-weight: 400;
-  src: local('Material Icons'), local('MaterialIcons-Regular'), url(../font/icons.woff2) format('woff2');
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url(https://cdn.rawgit.com/sapoandie/sapoandi.com/3ca69b26/icons.woff2) format('woff2');
 }
 
 .material-icons {
